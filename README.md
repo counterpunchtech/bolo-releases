@@ -1,6 +1,6 @@
 # bolo-releases
 
-Signed binary releases for [Bolo](https://bolo.app) — P2P substrate + Home Intelligence (camera security) on [Iroh](https://iroh.computer).
+Signed binary releases for [Bolo](https://runbolo.com) — P2P substrate + Home Intelligence (camera security) on [Iroh](https://iroh.computer).
 
 **The Bolo source code is private.** This repository holds only signed release artifacts and update manifests consumed by the in-app auto-updater (`bolod` + Tauri desktop shell).
 
@@ -15,7 +15,7 @@ pubkeys/
   bolod-latest.json[.minisig]     — daemon auto-update manifest for that channel
   desktop-latest.json[.minisig]   — Tauri desktop auto-update manifest for that channel
 
-install.sh         — headless one-line installer (target of `curl get.bolo.app | sh`)
+install.sh         — headless one-line installer (target of `curl get.runbolo.com | sh`)
 ```
 
 Per-version artifacts (`bolod-<triple>.tar.gz`, `Bolo-<version>.dmg`, `.msi`, `.AppImage`, etc.) are attached as assets to the corresponding GitHub Release, not committed to this repo.
@@ -46,4 +46,4 @@ RWTruTWtUg9mdaBQVIJYsjZAdjb1H8pjMNIvK/VvipdjMbrZOxMEKpsR
 
 ## Reporting issues
 
-Since the source is private, please report issues via the support channels on [bolo.app](https://bolo.app) rather than opening issues on this artifact repository.
+Since the source is private, please report issues via the support channels on [runbolo.com](https://runbolo.com) rather than opening issues on this artifact repository.

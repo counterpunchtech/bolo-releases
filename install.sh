@@ -2,13 +2,13 @@
 # Bolo headless installer.
 #
 # Usage:
-#   curl -sSL https://get.bolo.app | sh
+#   curl -sSL https://get.runbolo.com | sh
 #   curl -sSL https://raw.githubusercontent.com/counterpunchtech/bolo-releases/main/install.sh | sh
 #
 # Environment overrides:
 #   BOLO_CHANNEL=stable|beta|nightly   (default: stable)
 #   BOLO_INSTALL_DIR=<path>            (default: ~/.local/share/bolo/bin on Linux,
-#                                       ~/Library/Application Support/app.bolo.desktop/bin on macOS)
+#                                       ~/Library/Application Support/com.runbolo.desktop/bin on macOS)
 #   BOLO_VERSION=vX.Y.Z                (default: latest in channel)
 
 set -eu
@@ -30,7 +30,7 @@ case "${uname_s}-${uname_m}" in
 esac
 
 case "${uname_s}" in
-  Darwin) DEFAULT_DIR="${HOME}/Library/Application Support/app.bolo.desktop/bin" ;;
+  Darwin) DEFAULT_DIR="${HOME}/Library/Application Support/com.runbolo.desktop/bin" ;;
   Linux)  DEFAULT_DIR="${HOME}/.local/share/bolo/bin" ;;
 esac
 INSTALL_DIR="${BOLO_INSTALL_DIR:-${DEFAULT_DIR}}"
