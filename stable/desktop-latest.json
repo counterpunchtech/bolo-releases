@@ -3,18 +3,18 @@
   "product": "desktop",
   "channel": "stable",
   "version": "0.1.0",
-  "released_at": "2026-04-21T18:31:10Z",
+  "released_at": "2026-04-21T19:05:41Z",
   "artifacts": {
     "0.1.0_aarch64": {
       "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/Bolo_0.1.0_aarch64.dmg",
-      "size": 3120304,
-      "blake3": "590142a4874a448d4636cf312390422294d9d301c3848923e8510849fc90c675",
+      "size": 3135827,
+      "blake3": "89090b8b76e0f123b95c38bd79b76ef0cf4ebc06e8142fa2fa3f9987c0281aeb",
       "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/Bolo_0.1.0_aarch64.dmg.minisig"
     },
     "0.1.0_amd64": {
       "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/Bolo_0.1.0_amd64.deb",
-      "size": 4358868,
-      "blake3": "da72abdcd1176d0541d58e13f523d6d2d2739276c246f4d6f5aed47e7858b59a",
+      "size": 4358870,
+      "blake3": "a4ade743cd3ff0fc899d4a5996bebcfb4bfdb8199dce1e8956e1991bf75bd081",
       "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/Bolo_0.1.0_amd64.deb.minisig"
     }
   }

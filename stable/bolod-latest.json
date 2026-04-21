@@ -3,24 +3,24 @@
   "product": "bolod",
   "channel": "stable",
   "version": "0.1.0",
-  "released_at": "2026-04-21T18:31:10Z",
+  "released_at": "2026-04-21T19:05:41Z",
   "artifacts": {
     "aarch64-apple-darwin": {
       "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/bolod-aarch64-apple-darwin.tar.gz",
-      "size": 12095136,
-      "blake3": "714e25b8cf3d7f4b67440403dcac334b77ffeaed17781c8907df6e86f18e4a85",
+      "size": 12100355,
+      "blake3": "5c4b008f890e3a078be49c3cf781a35ebbfc7d107072c270ca422030a4689cfc",
       "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/bolod-aarch64-apple-darwin.tar.gz.minisig"
     },
     "aarch64-unknown-linux-gnu": {
       "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/bolod-aarch64-unknown-linux-gnu.tar.gz",
-      "size": 13379819,
-      "blake3": "db27f5200e139a8ebb3f4eb581f25990f939add9f51bd159f54842732a9be8f0",
+      "size": 13379820,
+      "blake3": "3ff9bd560cc53f485b6e3db3571befa03981ca1313ec3fbca63a5ba92ee13960",
       "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/bolod-aarch64-unknown-linux-gnu.tar.gz.minisig"
     },
     "x86_64-unknown-linux-gnu": {
       "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/bolod-x86_64-unknown-linux-gnu.tar.gz",
-      "size": 14239394,
-      "blake3": "29a49656cb44a1e8f8e6d6f5f7a54931efa542f8cd7dd6777b87f663452b264a",
+      "size": 14239399,
+      "blake3": "d453f9923d7945881bfc2213aab54e43e54bffddd05ae577f7519b3be033a6fb",
       "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.0/bolod-x86_64-unknown-linux-gnu.tar.gz.minisig"
     }
   }
