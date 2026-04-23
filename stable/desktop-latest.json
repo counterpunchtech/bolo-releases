@@ -1,15 +1,15 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "notes": "",
-  "pub_date": "2026-04-22T19:25:12Z",
+  "pub_date": "2026-04-23T14:21:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcnVUV3RVZzltZFcraUsvY3BWQkgyZUpjNkpKYXQ1SHIxTzNPUmNQWGhKU1JDN0VMZzlVTkMyQTJ5WkZya1FHS1VQSlhQOEZISXM2d3FJUnlKcytKUVRoY0FnZjNzT0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODg1MzEyCWZpbGU6Qm9sby5hcHAudGFyLmd6Cm9INEFSV0cwNmF6RDl0NEgyQlJzTHM0QWlKUncrK2UxMWNTZDRjZnFHamY4ZmJKQ1AvM1QybFpqQWg3Z2xueHFoYnp0S1NCQ0ZDY0RCQXBDQ29MbER3PT0K",
-      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.7/Bolo-aarch64-apple-darwin.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcnVUV3RVZzltZGRRMjhNZExpY015MjNGVkJaQ24vN3FRYTZ3dk5mK3lwckNySGg3Smk2Qnk1TkhtL2l0a29iRk9GNm5Va3RIM2Z1bi9DVnhNYUtNallDTk5QRXJoZGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTUzODI3CWZpbGU6Qm9sby5hcHAudGFyLmd6CmFla3o2TFBRN1lUNUM3SVluS2JVaExwQ0lCV2lBMmlENmVXcndXcWcvWUFoRXV1Wm42Vm5HVWRyMkZsRWZJWkpGbHNXOTBESHVTbEpNNWwwMXNBZUNBPT0K",
+      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.8/Bolo-aarch64-apple-darwin.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcnVUV3RVZzltZFhFUEsvK1JiU3B0OFpJT0lxNXozdFVPVGxqMStNMWJzSVNhM2Q0Q1F0TUZQTk9MWXJ2eXJkaEFlMC93b3I5K0tuaGFid1JpdzQxK1M3VWVTakxXM0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODg1MTY2CWZpbGU6Qm9sby5hcHAudGFyLmd6CmNmTkdOK2ZzNWxLTGJnOXJ1NUkvY3V0OHRzZkl0ampUTWNweXFxbU5FUWJQOU82SzVtd3FMM1JFS2t3dGR2anZiTG43SWJxQ3NXQTArV21KK0NqbUNnPT0K",
-      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.7/Bolo-x86_64-apple-darwin.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcnVUV3RVZzltZFV5a1E0UUJIOXRKeFF4OCtMRnk1amcxZFZlZ2xhb28yMGVwblFGZlBaZjUreElnSC9QY0ZQMHpaa0tkVzF2NHU4VGpaazdYRTB2YjhaY0piNXRQWndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTU0MDc2CWZpbGU6Qm9sby5hcHAudGFyLmd6CkRRWHFPSk4zUnRpOXlTc2Z3QTgySUhCQ0lyRExUTWxKcG11VFN1SEJ1R2xIb2NYSXlvQmEwb2Jidi9QaGZqRlUvOS8vcHZIaXhyaE1TWE9RODJkZkNRPT0K",
+      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.8/Bolo-x86_64-apple-darwin.app.tar.gz"
     }
   }
 }
