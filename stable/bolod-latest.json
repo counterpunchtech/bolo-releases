@@ -2,20 +2,20 @@
   "schema": 1,
   "product": "bolod",
   "channel": "stable",
-  "version": "0.1.17",
-  "released_at": "2026-04-24T01:43:49Z",
+  "version": "0.1.18",
+  "released_at": "2026-04-24T12:41:48Z",
   "artifacts": {
     "aarch64-apple-darwin": {
-      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.17/bolod-aarch64-apple-darwin.tar.gz",
-      "size": 12104966,
-      "blake3": "b43be6ddebd9d11c7c69c79bd3bd7ce4e8b75f5225dbac0f92df291eca636337",
-      "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.17/bolod-aarch64-apple-darwin.tar.gz.minisig"
+      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.18/bolod-aarch64-apple-darwin.tar.gz",
+      "size": 12104331,
+      "blake3": "6aff557bf17bfe00b3ff43421b7e1462682595cc6233affaac193b828472b732",
+      "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.18/bolod-aarch64-apple-darwin.tar.gz.minisig"
     },
     "x86_64-apple-darwin": {
-      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.17/bolod-x86_64-apple-darwin.tar.gz",
-      "size": 13474416,
-      "blake3": "ff026ac1d439b00f81636e0e548b6b5d25841bf40710219f3b21c54f752cfa95",
-      "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.17/bolod-x86_64-apple-darwin.tar.gz.minisig"
+      "url": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.18/bolod-x86_64-apple-darwin.tar.gz",
+      "size": 13473649,
+      "blake3": "11055c25ac3ca3da0d4ba1859120d4c1350453c1b6484f7786db3be82e8c4098",
+      "minisign": "https://github.com/counterpunchtech/bolo-releases/releases/download/v0.1.18/bolod-x86_64-apple-darwin.tar.gz.minisig"
     }
   }
 }
